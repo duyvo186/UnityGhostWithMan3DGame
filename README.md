@@ -1,6 +1,6 @@
 #
 Build with Unity vs script C# 
-Use free asset free 
+Use free asset and I build functionn for the game work !
 
 Image Demo
 
